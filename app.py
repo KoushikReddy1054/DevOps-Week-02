@@ -1,1 +1,1 @@
-print('App main')
+print('Feature Auth: Login system')
